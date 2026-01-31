@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Our AI Agents",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy"
+  },
+  "hero": {
+    "badge": "Excellence in Automated AI",
+    "title": "Propel Your Business with Intelligent AI Agents",
+    "subtitle": "Implify AI deploys advanced automation solutions to transform your productivity and customer relations.",
+    "cta_primary": "Start a Project",
+    "cta_secondary": "Explore Our Agents"
+  },
+  "services": {
+    "title": "Our Specialized AI Agents",
+    "subtitle": "Tailor-made solutions designed for maximum performance. These are just examples among many other agents we can custom-build for your business.",
+    "custom_note": "Need a specific agent? We develop custom solutions tailored to your unique needs.",
+    "whatsapp": {
+      "title": "24/7 WhatsApp Support Agent",
+      "desc": "Instantly respond to customers on WhatsApp, manage orders and support without human intervention.",
+      "status": "Live"
+    },
+    "email": {
+      "title": "Smart Email Agent",
+      "desc": "Intelligent management of your inbox: sorting, personalized automatic replies, and data extraction.",
+      "status": "Live"
+    },
+    "social": {
+      "title": "Social Media Content Generator",
+      "desc": "Generate viral content and automatic scheduling for your social networks using AI.",
+      "status": "Beta"
+    },
+    "voice": {
+      "title": "AI Voice Agent",
+      "desc": "Ultra-realistic voice agents for your outbound calls, bookings, and phone prospecting.",
+      "status": "Beta"
+    }
+  },
+  "about": {
+    "title": "The Implify Story",
+    "p1": "Implify AI is a boutique agency specialized in ultra-high performance AI automation.",
+    "p2": "We don't just build chatbots. We construct intelligent business layers that replace hours of manual work with seconds of automated precision.",
+    "pillar_title": "The future of work is autonomous.",
+    "stat_automated": "Automated",
+    "stat_available": "Availability"
+  },
+  "process": {
+    "title": "Our Success Process",
+    "subtitle": "A structured approach to transforming your business.",
+    "steps": {
+      "1": {
+        "title": "Business Analysis",
+        "desc": "Detailed mapping of business processes."
+      },
+      "2": {
+        "title": "AI Design",
+        "desc": "Custom AI architecture design."
+      },
+      "3": {
+        "title": "Deployment",
+        "desc": "Integration with your existing stacks."
+      },
+      "4": {
+        "title": "Optimization",
+        "desc": "Continuous performance monitoring."
+      }
+    }
+  },
+  "contact": {
+    "title": "Let's Talk About Your Project",
+    "subtitle": "Ready to automate your growth? Contact us today.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "message": "Your project in a few words",
+    "send": "Send Request",
+    "success_title": "Request received!",
+    "success_desc": "Our team will get back to you within 24 hours.",
+    "error_title": "Sending Error",
+    "error_desc": "An error occurred while sending. Please try again or contact us directly via email.",
+    "other_msg": "Send another message"
+  },
+  "footer": {
+    "desc": "The premium AI agency for limitless automation.",
+    "rights": "All rights reserved."
+  },
+  "cookies": {
+    "text": "We respect your privacy. We use cookies to enhance your browsing experience, serve personalized ads or content, and analyze our traffic. By clicking 'Accept All', you consent to our use of cookies.",
+    "accept": "Accept All",
+    "reject": "Reject All"
+  },
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "date": "Effective Date: 30/01/2026",
+    "intro": "Implify AI respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and services.",
+    "s1_title": "1. Information We Collect",
+    "s1_text": "We collect various types of information from you when you use our Services, including but not limited to: Personal Information (name, email, phone), Usage Data & Analytics, Message / Conversation Data, and Cookies & Tracking Data.",
+    "s2_title": "2. How We Use Your Information",
+    "s2_text": "We use your data for purposes including: Providing and maintaining Services, processing payments, personalizing experience, communicating updates, and analyzing usage.",
+    "s3_title": "3. Legal Basis (if applicable, especially under GDPR)",
+    "s3_text": "Where required, our legal basis may include your consent, performance of a contract, legitimate interests, or compliance with legal obligations.",
+    "s4_title": "4. Sharing & Disclosure",
+    "s4_text": "We may share your data with service providers, affiliates, or law enforcement when required. We do not sell your personal data.",
+    "s5_title": "5. Data Retention",
+    "s5_text": "We retain your personal information only as long as necessary for the purposes set out above, or as required by law.",
+    "s6_title": "6. Your Rights",
+    "s6_text": "Depending on your jurisdiction, you may have rights to access, correct, delete, or restrict processing. Contact us at implifyai@gmail.com to exercise these rights.",
+    "s7_title": "7. Cookies & Tracking Technologies",
+    "s7_text": "You can choose to disable cookies via your browser settings, but that may affect functionality.",
+    "s8_title": "8. International Data Transfers",
+    "s8_text": "We will ensure appropriate safeguards are in place for cross-border data transfers.",
+    "s9_title": "9. Security",
+    "s9_text": "We implement reasonable organizational, technical, and administrative measures to protect your data.",
+    "s10_title": "10. Changes to This Privacy Policy",
+    "s10_text": "We may update this Privacy Policy from time to time. We encourage you to check this page periodically.",
+    "s11_title": "11. Contact Us",
+    "s11_text": "If you have questions: implifyai@gmail.com"
+  }
+}

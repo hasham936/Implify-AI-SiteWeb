@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Nos Agents IA",
+    "about": "À propos",
+    "contact": "Contact",
+    "privacy": "Confidentialité"
+  },
+  "hero": {
+    "badge": "L'Excellence de l'IA Automatisée",
+    "title": "Propulsez votre entreprise avec des Agents IA Intelligents",
+    "subtitle": "Implify AI déploie des solutions d'automatisation avancées pour transformer votre productivité et votre relation client.",
+    "cta_primary": "Démarrer un projet",
+    "cta_secondary": "Découvrir nos agents"
+  },
+  "services": {
+    "title": "Nos Agents IA Spécialisés",
+    "subtitle": "Des solutions sur mesure conçues pour une performance maximale. Ce sont des exemples parmi de nombreux autres agents que nous pouvons créer sur mesure pour votre business.",
+    "custom_note": "Besoin d'un agent spécifique ? Nous développons des solutions sur mesure adaptés à vos besoins uniques.",
+    "whatsapp": {
+      "title": "Agent Support WhatsApp 24/7",
+      "desc": "Répondez instantanément à vos clients sur WhatsApp, gérez les commandes et le support sans intervention humaine.",
+      "status": "Live"
+    },
+    "email": {
+      "title": "Smart Email Agent",
+      "desc": "Gestion intelligente de votre boîte mail : tri, réponses automatiques personnalisées et extraction de données.",
+      "status": "Live"
+    },
+    "social": {
+      "title": "Social Media Content Generator",
+      "desc": "Génération de contenu viral et planification automatique pour vos réseaux sociaux grâce à l'IA.",
+      "status": "Beta"
+    },
+    "voice": {
+      "title": "AI Voice Agent",
+      "desc": "Agents vocaux ultra-réalistes pour vos appels sortants, réservations et prospection téléphonique.",
+      "status": "Beta"
+    }
+  },
+  "about": {
+    "title": "L'histoire d'Implify",
+    "p1": "Implify AI est une agence boutique spécialisée dans l'automatisation par IA de ultra-haute performance.",
+    "p2": "Nous ne nous contentons pas de créer des chatbots. Nous construisons des couches business intelligentes qui remplacent des heures de travail manuel par des secondes de précision automatisée.",
+    "pillar_title": "Le futur du travail est autonome.",
+    "stat_automated": "Automatisé",
+    "stat_available": "Disponibilité"
+  },
+  "process": {
+    "title": "Notre Processus de Succès",
+    "subtitle": "Une approche structurée pour transformer votre entreprise.",
+    "steps": {
+      "1": {
+        "title": "Analyse Métier",
+        "desc": "Cartographie détaillée des processus métier."
+      },
+      "2": {
+        "title": "Conception IA",
+        "desc": "Conception d'architecture IA sur mesure."
+      },
+      "3": {
+        "title": "Déploiement",
+        "desc": "Intégration avec vos stacks existantes."
+      },
+      "4": {
+        "title": "Optimisation",
+        "desc": "Suivi continu des performances."
+      }
+    }
+  },
+  "contact": {
+    "title": "Parlons de votre projet",
+    "subtitle": "Prêt à automatiser votre croissance ? Contactez-nous dès aujourd'hui.",
+    "name": "Nom complet",
+    "email": "Adresse Email",
+    "message": "Votre projet en quelques mots",
+    "send": "Envoyer la demande",
+    "success_title": "Demande reçue !",
+    "success_desc": "Notre équipe reviendra vers vous sous 24h.",
+    "error_title": "Erreur d'envoi",
+    "error_desc": "Une erreur est survenue lors de l'envoi. Veuillez réessayer ou nous contacter directement par email.",
+    "other_msg": "Envoyer un autre message"
+  },
+  "footer": {
+    "desc": "L'agence d'IA premium pour une automatisation sans limite.",
+    "rights": "Tous droits réservés."
+  },
+  "cookies": {
+    "text": "Nous respectons votre vie privée. Nous utilisons des cookies pour améliorer votre expérience de navigation, diffuser des publicités ou des contenus personnalisés et analyser notre trafic. En cliquant sur « Tout accepter », vous consentez à notre utilisation des cookies.",
+    "accept": "Tout accepter",
+    "reject": "Tout rejeter"
+  },
+  "privacy_policy": {
+    "title": "Politique de Confidentialité",
+    "date": "Date d'entrée en vigueur : 30/01/2026",
+    "intro": "Implify AI respecte votre vie privée et s'engage à protéger vos données personnelles. Cette politique de confidentialité explique comment nous collectons, utilisons, divulguons et sauvegardons vos informations lorsque vous utilisez notre site web et nos services.",
+    "s1_title": "1. Informations que nous collectons",
+    "s1_text": "Nous collectons divers types d'informations lorsque vous utilisez nos services : informations personnelles (nom, email, téléphone), données d'utilisation et d'analyse, données de conversation avec nos agents IA, et cookies.",
+    "s2_title": "2. Utilisation de vos informations",
+    "s2_text": "Nous utilisons vos données pour fournir et maintenir nos services, traiter les paiements, personnaliser l'expérience utilisateur et analyser les performances.",
+    "s3_title": "3. Base légale",
+    "s3_text": "Notre base légale inclut votre consentement, l'exécution d'un contrat, nos intérêts légitimes et le respect des obligations légales.",
+    "s4_title": "4. Partage et divulgation",
+    "s4_text": "Nous pouvons partager vos données avec des prestataires de services, des affiliés ou des autorités légales si requis. Nous ne vendons pas vos données.",
+    "s5_title": "5. Conservation des données",
+    "s5_text": "Nous conservons vos informations uniquement le temps nécessaire aux fins énoncées ou requis par la loi.",
+    "s6_title": "6. Vos droits",
+    "s6_text": "Vous avez le droit d'accéder, de corriger, de supprimer vos données, et plus encore. Contactez-nous à implifyai@gmail.com pour exercer ces droits.",
+    "s7_title": "7. Cookies et technologies de suivi",
+    "s7_text": "Vous pouvez choisir de désactiver les cookies via votre navigateur, bien que cela puisse affecter certaines fonctionnalités.",
+    "s8_title": "8. Transferts de données internationaux",
+    "s8_text": "Nous assurons des garanties appropriées pour tout transfert de données transfrontalier.",
+    "s9_title": "9. Sécurité",
+    "s9_text": "Nous mettons en œuvre des mesures techniques et administratives raisonnables pour protéger vos données.",
+    "s10_title": "10. Modifications de cette politique",
+    "s10_text": "Nous pouvons mettre à jour cette politique. Vérifiez cette page périodiquement pour rester informé.",
+    "s11_title": "11. Contactez-nous",
+    "s11_text": "Pour toute question : implifyai@gmail.com"
+  }
+}
